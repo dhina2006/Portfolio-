@@ -85,7 +85,7 @@
 <body>
   <header>
     <div class="header-content">
-      <img src="D.jpg" alt="Your Profile Picture" class="profile-picture">
+      <img src="D.webp" alt="Your Profile Picture" class="profile-picture">
       <h1>Dhinadhayalan S</h1>
       <p>Software Designer</p>
     </div>
